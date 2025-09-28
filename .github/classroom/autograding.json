@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Ejercicio 1 - Sistema Experto Vehículos",
+      "setup": "pip install experta nbformat jupyter pytest",
+      "run": "python tests/test_ejercicio1.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 30,
+      "points": 100
+    }
+  ]
+}
